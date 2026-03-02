@@ -1,96 +1,127 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/00197dc3bf352eeec7433ced14f81d6a5862a3b502616bf20c5cf9e419b89e28/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f5843556c61384f6f57713041414141642f7075736875702d616e696d652e676966" width="100%" />
-</p>
+<h1 align="center">
+  Hi 👋, I'm Atul Singh Tomar
+</h1>
 
-<h1 align="center">Hi 👋, I'm Atul Singh Tomar</h1>
-<p align="center">
-  <i>Backend & Systems Engineer | Java Specialist | Distributed Systems Enthusiast</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atulsingh1704&style=flat-square&color=blue&label=PROFILE+VIEWS" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I am a **Computer Science undergraduate** with a deep-rooted passion for systems engineering. Over the last **7+ years with Java**, I have evolved from writing basic logic to exploring **JVM internals, low-latency matching engines, and protocol-level engineering**. 
-
-- 🔭 **Currently:** Engineering a high-performance, in-memory **Stock Order Matching Engine**.
-- ⚙️ **Specialization:** Building resilient backends with **Spring Boot** and securing them via **JWT**.
-- 🛠️ **Systems focus:** Interested in **Distributed Architectures**, **MQTT Protocols**, and **Embedded Systems (8051/ARM)**.
-
----
-
-### 🎓 Education
-
-| Institute | Degree | Roll Number | Key Focus |
-| :--- | :--- | :--- | :--- |
-| **UIT RGPV** | B.Tech in Computer Science | 230101037 | Systems, Networking, DSA |
-| **Self-Taught** | JVM Internals & Backend | — | Java, Spring, Microservices |
-
----
-
-### 💼 Key Projects
-
-#### 🏦 Order Exchange (Trading Engine)
-* Designed a NASDAQ-style matching engine using **Priority Queues** and custom data structures.
-* Focused on **O(log n)** matching complexity and deterministic trade execution.
-* `Java` `System Design` `Low-Latency Logic`
-
-#### 🛡️ ImmunizationTracker (CI/CD & Security)
-* Automated deployment workflows using **GitHub Actions**.
-* Implemented **JWT-based Security** and robust database migrations.
-* `Spring Boot` `GitHub Actions` `JWT` `MySQL`
-
-#### 📡 IoT Telemetry System
-* Built a real-time message ingestion pipeline using the **MQTT Protocol**.
-* Simulated distributed device-to-server communication for IoT environments.
-
----
-
-### 🛠️ Technical Skillset
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) |
-| **Systems** | **JVM Internals**, **MQTT**, **8051/ARM Microcontrollers**, **Networking** |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-
----
-
-### 📊 GitHub Stats & Activity
+<h3 align="center">
+  Backend & Systems Engineer • Java • Spring Boot • Distributed Systems
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulsingh1704&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://komarev.com/ghpvc/?username=atulsingh1704&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh1704&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulsingh1704&theme=github-compact" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 🧠 About Me
+
+🎓 Computer Science undergraduate at **:contentReference[oaicite:0]{index=0}**  
+💻 **7+ years of experience with Java**  
+🏗️ Deep hands-on expertise in **Spring Boot & backend internals**  
+🧮 Strong foundation in **Data Structures, Algorithms & System Design**  
+
+I specialize in **building complex systems from first principles** —  
+from **order-matching engines** to **protocol-level IoT communication**.
+
+---
+
+## 🚀 Flagship Projects
+
+### 🏦 Order Exchange (Stock Trading Engine)
+> A **single-stock trading exchange** inspired by real-world systems like NASDAQ.
+
+🧩 **What makes it special**
+- Limit & Market order matching
+- Deterministic trade execution
+- Order book implementation
+- Priority queues & custom DS
+- Focus on correctness & performance
+
+⚙️ **Core Concepts**
+`Matching Engines` `Low Latency Logic` `Data Structures` `System Design`
+
+---
+
+### 📡 Telemetry System (IoT via MQTT)
+> A telemetry pipeline simulating **IoT device communication using MQTT protocol**.
+
+📡 **Key Features**
+- Publisher–Subscriber architecture
+- Device-to-server messaging
+- Real-time telemetry ingestion
+- Protocol-driven communication
+
+⚙️ **Core Concepts**
+`MQTT` `IoT Systems` `Distributed Communication` `Networking Basics`
+
+---
+
+## 🛠️ Skills & Tools
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+</p>
+
+### ⚙️ Backend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,maven" height="40"/>
+</p>
+
+### 🧠 Systems & Concepts
+- Data Structures & Algorithms  
+- System Design  
+- Distributed Systems  
+- Message Queues  
+- Networking & Protocols  
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,idea" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atulsingh-it/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atulsingh1704&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh1704&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulsingh1704&theme=tokyonight" width="60%" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+🚀 Advanced Spring Boot internals  
+⚙️ High-performance backend systems  
+📐 Scalable system design patterns  
+🌐 Real-world distributed architectures  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:atulsingh171202@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"I believe strong systems are built by understanding fundamentals deeply."</i><br>
-  <b>Last updated: March 2026</b>
-</p>
+⭐ *I believe great systems are built by engineers who understand fundamentals deeply.*
