@@ -1,9 +1,13 @@
 <div align="center">
 
 <!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=200&section=header&text=Atul%20Singh%20Tomar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20%26%20Systems%20Engineer&descAlignY=60&descSize=20" width="100%"/>
-</p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header" width="100%"/>
+<!-- Name & Title as plain markdown below the wave (always renders) -->
+<h1 style="margin-top:-10px">👋 Atul Singh Tomar</h1>
+<h3>Backend &amp; Systems Engineer &nbsp;•&nbsp; Java &nbsp;•&nbsp; Spring Boot &nbsp;•&nbsp; Distributed Systems</h3>
+<br/>
+
 
 <br/>
 
