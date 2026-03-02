@@ -175,7 +175,24 @@ public class Atul extends BackendEngineer {
 </div>
 
 ---
+## 📫 Let's Connect
 
+<div align="center">
+
+<!-- ⚠️ TODO: Replace YOUR-LINKEDIN-SLUG and YOUR-EMAIL with your real details -->
+<a href="https://www.linkedin.com/in/atulsingh-it/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:atulsingh171202@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/atulsingh1704">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -196,32 +213,9 @@ public class Atul extends BackendEngineer {
 
 ---
 
-## 🏆 GitHub Trophies
+--
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atulsingh1704&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="95%"/>
-</div>
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<!-- ⚠️ TODO: Replace YOUR-LINKEDIN-SLUG and YOUR-EMAIL with your real details -->
-<a href="https://www.linkedin.com/in/atulsingh-it/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:atulsingh171202@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/atulsingh1704">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
 
 > 💬 *"The best engineers don't just write code — they understand the system underneath it."*
 
